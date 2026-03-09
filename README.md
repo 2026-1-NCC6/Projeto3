@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/mariaeflopes/">Eduarda Lopes</a>, <a href="https://www.linkedin.com/in/flaviojose-santos/">Flávio Santos</a>, <a href="https://www.linkedin.com/in/jenifer-barreto-55022523b/">Jenifer Barreto</a>, <a href="https://www.linkedin.com/in/felipecarpal/">Felipe Carvalho Paleari</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/victorbarq/">Edson Ricardo Barbero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/trencher/">Joao Francisco Trencher Martins</a>, <a href="https://www.linkedin.com/in/edsonbarbero/">Edson Ricardo Barbero</a>
 
 ## Descrição
 
@@ -42,14 +42,14 @@ May the force be with you!
     &emsp;&emsp;|-->Inovação e Empreendedorismo<br>
     &emsp;&emsp;|-->Projeto Interdisciplinar | Internet das Coisas e Robótica<br>
     &emsp;&emsp;|-->Redes de Computadores e Cibersegurança<br>
-    &emsp;&emsp;|-->Sistemas Embarcados e Robótica<br>  
-    &emsp;&emsp;|-->Teoria da Computação e Linguagens Formais<br>  
+    &emsp;&emsp;|-->Sistemas Embarcados e Robótica<br>
+    &emsp;&emsp;|-->Teoria da Computação e Linguagens Formais<br>
   &emsp;|-->Entrega 2<br>
     &emsp;&emsp;|-->Inovação e Empreendedorismo<br>
     &emsp;&emsp;|-->Projeto Interdisciplinar | Internet das Coisas e Robótica<br>
     &emsp;&emsp;|-->Redes de Computadores e Cibersegurança<br>
-    &emsp;&emsp;|-->Sistemas Embarcados e Robótica<br>  
-    &emsp;&emsp;|-->Teoria da Computação e Linguagens Formais<br>  
+    &emsp;&emsp;|-->Sistemas Embarcados e Robótica<br>
+    &emsp;&emsp;|-->Teoria da Computação e Linguagens Formais<br>
   &emsp;|Documento - Projeto de Extensão - COM Empresa.docx<br>
   &emsp;|readme.md<br>
 |-->imagens<br>
