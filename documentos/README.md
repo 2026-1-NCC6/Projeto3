@@ -31,7 +31,7 @@
 
 ### Sistemas Embarcados e Robótica
 
-<b>JENIFER JACINO BARRETO 1- [Trabalho/Documento](https://github.com/2026-1-NCC6/Projeto3/blob/main/documentos/Entrega%201/Sistemas%20Embarcados%20e%20Rob%C3%B3tica/ProjetoWOKWI.pdf)</b>
+<b>JENIFER JACINO BARRETO - [Trabalho/Documento](https://github.com/2026-1-NCC6/Projeto3/blob/main/documentos/Entrega%201/Sistemas%20Embarcados%20e%20Rob%C3%B3tica/ProjetoWOKWI.pdf)</b>
 <br><br>
 
 ### Teoria da Computação e Linguagens Formais
