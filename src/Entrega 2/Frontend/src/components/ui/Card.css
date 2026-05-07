@@ -1,0 +1,23 @@
+.ui-card {
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: box-shadow var(--transition-normal);
+}
+
+.ui-card:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+.solid-panel {
+  background-color: var(--color-bg-surface);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-md);
+}
+
+.with-padding {
+  padding: 24px;
+}
+
+.no-padding {
+  padding: 0;
+}
