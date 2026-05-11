@@ -21,16 +21,14 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://github.com/2026-1-NCC6/Projeto3/blob/main/imagens/logoR.png" alt="SIGE" border="0">
+  Sistema by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
+O Sistema Inteligente de Gestão de Energia (SIGE) é uma solução estratégica voltada para o mercado de eficiência e segurança energética, desenvolvida para atender consumidores residenciais, proprietários de imóveis e pequenos comércios.  
+<br>
+A plataforma resolve dores críticas ao oferecer monitoramento de consumo em tempo real para facilitar a redução de gastos e atuar na prevenção ativa de incêndios, realizando o corte automático de energia em casos de sobrecarga.
 <br><br>
 
 ## 🛠 Estrutura de pastas
