@@ -37,6 +37,7 @@ A plataforma resolve dores críticas ao oferecer monitoramento de consumo em tem
 |<br>
 |-->documentos<br>
   &emsp;|-->Entrega 1<br>
+  &emsp;&emsp;|-->Banner
     &emsp;&emsp;|-->Inovação e Empreendedorismo<br>
     &emsp;&emsp;|-->Projeto Interdisciplinar | Internet das Coisas e Robótica<br>
     &emsp;&emsp;|-->Redes de Computadores e Cibersegurança<br>
@@ -50,13 +51,6 @@ A plataforma resolve dores críticas ao oferecer monitoramento de consumo em tem
     &emsp;&emsp;|-->Teoria da Computação e Linguagens Formais<br>
   &emsp;|Documento - Projeto de Extensão - COM Empresa.docx<br>
   &emsp;|readme.md<br>
-|-->imagens<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
   &emsp;|-->Entrega 1<br>
     &emsp;&emsp;|-->Backend<br>
     &emsp;&emsp;|-->Frontend<br>
