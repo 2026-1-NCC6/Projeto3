@@ -1,3 +1,11 @@
 fastapi
-uvicorn
-pydantic
+uvicorn[standard]
+sqlmodel
+supabase
+paho-mqtt
+python-jose[cryptography]
+passlib[bcrypt]
+pandas
+python-multipart
+bcrypt
+email-validator
