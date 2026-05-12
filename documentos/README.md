@@ -43,6 +43,7 @@
 ### Redes de Computadores e Cibersegurança
 
 <b>JENIFER JACINO BARRETO - [Trabalho/Documento](https://github.com/2026-1-NCC6/Projeto3/blob/main/documentos/Entrega%202/Redes%20de%20Computadores%20e%20Ciberseguran%C3%A7a/entrega2-Plano%20de%20Respostas%20aos%20Riscos.pdf)</b>
+[Trabalho/Documento](https://github.com/2026-1-NCC6/Projeto3/tree/main/src/Entrega%202/Backend/ArduinoEsp)</b>
 <br><br>
 
 ### Sistemas Embarcados e Robótica
