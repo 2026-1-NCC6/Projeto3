@@ -37,7 +37,7 @@ A plataforma resolve dores críticas ao oferecer monitoramento de consumo em tem
 |<br>
 |-->documentos<br>
   &emsp;|-->Entrega 1<br>
-  &emsp;&emsp;|-->Banner
+    &emsp;&emsp;|-->Banner
     &emsp;&emsp;|-->Inovação e Empreendedorismo<br>
     &emsp;&emsp;|-->Projeto Interdisciplinar | Internet das Coisas e Robótica<br>
     &emsp;&emsp;|-->Redes de Computadores e Cibersegurança<br>
